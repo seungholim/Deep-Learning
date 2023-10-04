@@ -13,20 +13,15 @@
 ### Tut11.  ReLU
 ### Tut12.  Weight Initialization
 ### Tut13.  Dropout
-### Tut14.  Batch Normalization01
-### Tut14.  Batch Normalization02
-### Tut15.  Batch Normalization03
-### Tut16.  Convolution01
-### Tut17.  Convolution02
-### Tut18.  Convolution03_visdom
-### Tut19.  Convolution04
-### Tut20.  RNN basic
-### Tut21.  
-### Tut22.  
-### Tut23.  
-        - Training & Evaluation
-    - Exercise
-### Tut24.  
-    
+### Tut14.  Batch Normalization1
+### Tut15.  Batch Normalization2
+### Tut16.  CNN1
+### Tut17.  CNN2
+### Tut18.  CNN3
+### Tut19.  CNN4
+### Tut20.  RNN1
+### Tut21.  RNN2
+### Tut22.  RNN3
+### Tut23.  RNN4
 
 
